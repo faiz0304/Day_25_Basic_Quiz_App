@@ -1,0 +1,27 @@
+===== Welcome to the Basic Quiz App =====
+
+Q1: What is the capital of Pakistan?
+   a) Karachi
+   b) Lahore
+   c) Islamabad
+   d) Peshawar
+Enter your answer (a/b/c/d): c
+✅ Correct!
+
+Q2: Which language is known as the backbone of web development?
+   a) Python
+   b) JavaScript
+   c) C++
+   d) Java
+Enter your answer (a/b/c/d): b
+✅ Correct!
+
+Q3: Who developed the theory of relativity?
+   a) Isaac Newton
+   b) Galileo Galilei
+   c) Albert Einstein
+   d) Nikola Tesla
+Enter your answer (a/b/c/d): c
+✅ Correct!
+
+🎯 Quiz Completed! Your Final Score: 3/3

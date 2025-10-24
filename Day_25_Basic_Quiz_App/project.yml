@@ -1,0 +1,25 @@
+
+---
+
+### **project.yml**
+```yaml
+name: Basic Quiz App (MCQs with Score)
+day: 25
+week: 4
+author: Faiz Ur Rehman Ashrafi
+description: >
+  A Python console-based Quiz Application built using Object-Oriented Programming (OOP).
+  The project demonstrates class design, object interaction, and score calculation logic.
+  Two versions are provided — one basic and one enhanced with type hints and docstrings.
+files:
+  - 01_basic_quiz_app.py
+  - 02_basic_quiz_app.py
+  - README.md
+  - output.txt
+topics:
+  - Python
+  - OOP
+  - Classes and Objects
+  - Type Hinting
+  - User Input
+  - Conditionals

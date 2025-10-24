@@ -1,0 +1,22 @@
+Key Concepts Practiced
+
+Object-Oriented Programming (Classes, Objects, Methods)
+
+- Composition (One class using another)
+- Loops and conditionals
+- Type hinting (in version 2)
+- User input handling
+
+Comparison: v1 vs v2
+
+Feature	01_basic_quiz_app.py        02_basic_quiz_app.py
+Type Hints                  |       (PEP 484 compliant)
+Docstrings                  |       Added for clarity
+Function Return Types       |       Uses -> None, -> bool
+Code Style	Simple          |       Professional & Type-safe
+
+
+Author
+
+Faiz Ur Rehman Ashrafi
+Python Mini Projects Series — Week 4 (OOP & Little Challenges)
